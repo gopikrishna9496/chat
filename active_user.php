@@ -16,6 +16,6 @@ include("config.php") ;
       }     
           
         echo  json_encode( array( "active_list" =>$users_active_list ) ) ;  
+        exit;
    }
-
 ?>

@@ -22,5 +22,5 @@
          exit;
       }
       header("Location: index.php?go=show");
-                                                                                                    
+      exit;                                                                                                    
 ?>
