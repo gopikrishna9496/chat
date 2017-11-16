@@ -1,5 +1,6 @@
 
   <?php
+  //new program added
   include("config.php");
    if( $_POST ){   
      if( $_POST['id'] != '0' ){
